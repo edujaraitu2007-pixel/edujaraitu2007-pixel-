@@ -1,8 +1,4 @@
-# ✨ Welcome to my Digital Space! ✨
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a5bc979f-84b1-41f9-aea6-96fbe07bc4bf" alt="Header Banner Eduardo Jara" width="100%"/>
-</p>
+# ✨ Welcome to my Digital Corner
 
 ---
 
@@ -15,11 +11,12 @@
 
 ### 🔗 Connect With Me
 
-
 <p align="center">
-  [![LinkedIn](https://www.linkedin.com/learning/learning-relational-databases-2/code-challenges/urn:li:la_assessmentV2:71062489?resume=false&u=2337506)]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edujaraitu2007-pixel-)
-  [![Gmail]https://mail.google.com/mail/u/0/?hl=es-419#inbox)]
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=wordpress&logoColor=white)](YOUR_PORTFOLIO_URL)
 </p>
 
 ---
