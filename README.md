@@ -12,14 +12,9 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edujaraitu2007-pixel-)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=wordpress&logoColor=white)](YOUR_PORTFOLIO_URL)
-</p>
-
----
+  [![LinkedIn](https://www.linkedin.com/learning/learning-relational-databases-2/code-challenges/urn:li:la_assessmentV2:71062489?resume=false&u=2337506)](YOUR_LINKEDIN_URL)
+  [![Gmail]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/?hl=es-419#inbox))](edujaraitu2007@gmail.com)
+ 
 
 ## 💻 Tech Stack & Tools
 
