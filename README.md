@@ -1,4 +1,4 @@
-# ✨ Welcome! ✨
+# ✨ Welcome to my Digital Space! ✨
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5bc979f-84b1-41f9-aea6-96fbe07bc4bf" alt="Header Banner Eduardo Jara" width="100%"/>
@@ -6,30 +6,25 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí (About Me)
+## 🙋‍♂️ About Me
 
-> **"La perseverancia no es una carrera larga; son muchas carreras cortas una tras otra."**
-> Soy **Eduardo Jara**, un entusiasta estudiante de **Análisis de Datos** en **Broward College**. Estoy constantemente inmerso en el entorno de la informática, con el objetivo de mejorar mis habilidades y contribuir a proyectos innovadores.
+> **"Perseverance is not a long race; it is many short races one after the other."**
+> I'm **Eduardo Jara**, an enthusiastic **Data Analysis** student at **Broward College**. I am constantly immersed in the computer science environment, aiming to improve my skills and contribute to innovative projects.
 
 ---
 
-### 🔗 Conéctate Conmigo
+### 🔗 Connect With Me
 
-Utilizaremos la estructura de *badges* para tus enlaces de redes sociales. **¡REEMPLAZA LAS URL DE EJEMPLO POR LAS TUYAS!**
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](URL_DE_TU_TWITTER)
+  [![LinkedIn](https://www.linkedin.com/learning/learning-relational-databases-2/code-challenges/urn:li:la_assessmentV2:71062489?resume=false&u=2337506)]
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edujaraitu2007-pixel-)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=wordpress&logoColor=white)](URL_DE_TU_PORTFOLIO)
+  [![Gmail]https://mail.google.com/mail/u/0/?hl=es-419#inbox)]
 </p>
 
 ---
 
-## 💻 Stack de Tecnología & Herramientas
-
-Aquí puedes mostrar las tecnologías que aprendes y utilizas. He añadido algunas que son comunes en el análisis de datos.
+## 💻 Tech Stack & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
@@ -44,11 +39,9 @@ Aquí puedes mostrar las tecnologías que aprendes y utilizas. He añadido algun
 
 ---
 
-## 📈 Mis Estadísticas de GitHub
-
-Esta sección te ayuda a ver tu actividad de forma visual. **¡REEMPLAZA `TU_NOMBRE_DE_USUARIO` POR `edujaraitu2007-pixel-`!**
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edujaraitu2007-pixel-&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edujaraitu2007-pixel-&layout=compact&theme=dark" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edujaraitu2007-pixel-&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Eduardo Jara GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edujaraitu2007-pixel-&layout=compact&theme=dark" alt="Top Languages" />
 </p>
